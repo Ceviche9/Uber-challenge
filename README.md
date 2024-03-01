@@ -18,18 +18,6 @@ The goal of this project is to create a service that accepts the necessary infor
 -   Maven for dependency management
 -   Spring Mail for sending emails
 
-
-## How to Run:
-
-To run the project locally, follow these steps:
-
-1.  Clone the repository to your local machine.
-2.  Ensure you have Java 11 and Maven installed.
-3.  Navigate to the project directory.
-4.  Build the project using Maven: `mvn clean install`.
-5.  Run the application: `java -jar target/email-service.jar`.
-6.  Access the API documentation at `http://localhost:8080/swagger-ui.html`.
-
 ## Usage
 
 To use this service, follow these steps:
